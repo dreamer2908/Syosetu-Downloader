@@ -2,8 +2,8 @@
 Download chapters from Syosetsu ni Narou — forked from LordZero25.
 
 **Differences from the original:**
-- Support non-Windows environment, Linux + Mono framework to be specific.
-- GUI tweaks to be more user-friendly.
+- Support non-Windows environment, Linux + Mono framework to be specific. The original will create very "funny" outputs if it's not Windows.
+- GUI tweaks to be a bit more user-friendly. Tooltips + "In Progress..." indicator.
 - Support CLI-only usage (for batch, automation, and CLI freaks). 
 - Verbose CLI status.
 - Target .Net version 2.0 instead of 4.0. Just because I use an older version of Visual Studio.
